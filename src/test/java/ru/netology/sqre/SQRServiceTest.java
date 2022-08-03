@@ -1,10 +1,10 @@
-package src.main.Java;
+package ru.netology.sqre;
 
 import src.main.Java.SQRService;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class SQRTest {
+public class SQRServiceTest {
 
     @org.junit.jupiter.api.Test
     void invalidRange() {
